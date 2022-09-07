@@ -1,6 +1,8 @@
 # Shapeshifter_Downloader
 A simple script to pull down the entirety or part of shapeshifter by Lemonfontcomics :)
 
+EDIT 09/22: Part 5 seems to be loading super slow and its not able to pull it down. I checked on the site and I can't load the page so might have to wait a day or so and try again.
+
 Credit: http://lemonfontcomics.com/
 
 Running the program is simple but requires multiple steps. I made this in about 3 days so its not super smart but it gets the job done :)
