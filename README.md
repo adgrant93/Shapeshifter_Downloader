@@ -1,6 +1,8 @@
 # Shapeshifter_Downloader
 A simple script to pull down the entirety or part of shapeshifter by Lemonfontcomics :)
 
+Credit: http://lemonfontcomics.com/
+
 Running the program is simple but requires multiple steps. I made this in about 3 days so its not super smart but it gets the job done :)
 
 Linux/MacOS:
